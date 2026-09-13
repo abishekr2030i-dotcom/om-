@@ -1,0 +1,123 @@
+[
+  {
+    "id": "cement-jagdamba-ppc",
+    "category": "Cement",
+    "brand": "Jagdamba",
+    "name": "Jagdamba PPC Cement",
+    "size": "50 kg",
+    "unit": "bag",
+    "price": 500,
+    "stock": true,
+    "image": "assets/jagdamba-ppc.png"
+  },
+  {
+    "id": "cement-ultra-opc",
+    "category": "Cement",
+    "brand": "Ultra",
+    "name": "Ultra OPC Cement",
+    "size": "50 kg",
+    "unit": "bag",
+    "price": 600,
+    "stock": true,
+    "image": "assets/ultra-opc.png"
+  },
+  {
+    "id": "tmt-jagdamba",
+    "category": "TMT Steel",
+    "brand": "Jagdamba",
+    "name": "Jagdamba TMT Steel",
+    "size": "Multiple mm sizes",
+    "unit": "kg",
+    "price": 100,
+    "stock": true,
+    "image": "assets/jagdamba-tmt.png"
+  },
+  {
+    "id": "paint-royale",
+    "category": "Asian Paints",
+    "brand": "Asian Paints",
+    "name": "Royale Luxury Emulsion",
+    "size": "Pack size varies",
+    "unit": "pack",
+    "price": 10000,
+    "stock": true,
+    "image": "assets/asian-paints-royale.png"
+  },
+  {
+    "id": "paint-apex",
+    "category": "Asian Paints",
+    "brand": "Asian Paints",
+    "name": "Apex Dust Proof",
+    "size": "Pack size varies",
+    "unit": "pack",
+    "price": 20000,
+    "stock": true,
+    "image": "assets/asian-paints-apex.png"
+  },
+  {
+    "id": "wall-putty",
+    "category": "Wall Putty",
+    "brand": "Om Sai",
+    "name": "Wall Putty",
+    "size": "Pack size varies",
+    "unit": "bag",
+    "price": 1200,
+    "stock": true,
+    "image": "assets/jagdamba-ppc.png"
+  },
+  {
+    "id": "safecrete",
+    "category": "Construction Chemicals",
+    "brand": "Safecrete",
+    "name": "Safecrete Construction Chemical",
+    "size": "Contact shop for pack size",
+    "unit": "pack",
+    "price": null,
+    "stock": true,
+    "image": "assets/ultra-opc.png"
+  },
+  {
+    "id": "belcha",
+    "category": "Equipment",
+    "brand": "Hardware",
+    "name": "Belcha / Shovel",
+    "size": "Standard",
+    "unit": "piece",
+    "price": 300,
+    "stock": true,
+    "image": "assets/belcha.png"
+  },
+  {
+    "id": "kathara",
+    "category": "Equipment",
+    "brand": "Hardware",
+    "name": "Kathara",
+    "size": "Standard",
+    "unit": "piece",
+    "price": 300,
+    "stock": true,
+    "image": "assets/belcha.png"
+  },
+  {
+    "id": "kudal",
+    "category": "Equipment",
+    "brand": "Hardware",
+    "name": "Kudal",
+    "size": "Standard",
+    "unit": "piece",
+    "price": 300,
+    "stock": true,
+    "image": "assets/belcha.png"
+  },
+  {
+    "id": "binding-wire",
+    "category": "Binding Wire",
+    "brand": "Jagdamba",
+    "name": "Jagdamba Binding Wire",
+    "size": "Standard",
+    "unit": "kg",
+    "price": null,
+    "stock": true,
+    "image": "assets/jagdamba-tmt.png"
+  }
+]
